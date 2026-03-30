@@ -1,15 +1,82 @@
+# Zenith Reddy Pathakota
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zenithreddy696@gmail.com) 
+Backend Developer · Systems & Security  
+Computer Science @ ABV-IIITM Gwalior  
+LeetCode Rating: 1650+
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Zenithreddyp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Zenithreddyp&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenithreddyp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Connect
+
+<p align="left">
+  <a href="mailto:pathakotazenithreddy@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/zenithreddypathakota/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Zenithreddyp">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+</p>
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,vite,nodejs,django,flask,postgres,mongodb,mysql,redis,docker,git,github,linux,arduino&perline=10" />
+</p>
+
+## Specialized Areas
+
+- Distributed Systems & Microservices
+- Network Security & OSINT
+- WebRTC & Real-Time Systems
+- Backend Architecture & API Design
+
+## Projects
+
+### 🔹 Distributed Network Analysis Platform
+
+- Built asynchronous microservice architecture using Node.js + Python workers
+- Implemented RabbitMQ-based distributed task queues
+- Developed SSL/TLS analysis, rDNS, and target intelligence modules
+- Designed scalable PostgreSQL schema + JWT authentication
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Zenithreddyp&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔹 VeloSync (Secure P2P File Sharing)
+
+- WebRTC-based direct file transfer (no server storage)
+- ECDH key exchange + AES-GCM encryption
+- Built signaling server using Node.js + Socket.IO
+- Optimized transfer speed & reduced payload overhead
+
+### 🔹 Zedova (E-Commerce Platform)
+
+- Django + PostgreSQL backend with REST APIs
+- ML-based recommendation system
+- UPI payments + invoice automation
+- Admin dashboard for inventory & orders
+
+## Achievements
+
+- LeetCode Rating: **1650+ (Top ~18%)**
+- Global Rank: **1780 / 33K+ (Top 5.2%)**
+- 2nd Prize — IEEE Open House (Hybrid Drone)
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zenithreddyp&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Zenithreddyp&theme=tokyonight&hide_border=true&mode=weekly"  height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zenithreddyp&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+## Current Focus
+
+- Backend Systems at Scale
+- Security & Attack Surface Management
+- Open Source contributions
