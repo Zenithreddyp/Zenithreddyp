@@ -1,8 +1,7 @@
 # Zenith Reddy Pathakota
 
 Backend Developer · Systems & Security  
-Computer Science @ ABV-IIITM Gwalior  
-LeetCode Rating: 1650+
+Computer Science @ ABV-IIITM Gwalior
 
 ## Connect
 
@@ -20,6 +19,8 @@ LeetCode Rating: 1650+
   </a>
 </p>
 
+_Currently looking for backend / systems / security-focused internships & research roles. Feel free to reach out!_
+
 ## Tech Stack
 
 <p align="left">
@@ -35,23 +36,21 @@ LeetCode Rating: 1650+
 
 ## Projects
 
-### 🔹 Distributed Network Analysis Platform
+### 🔹 [Distributed Network Analysis Platform](https://github.com/Zenithreddyp/security_scan) _(Actively Developing)_
 
-- Built asynchronous microservice architecture using Node.js + Python workers
-- Implemented RabbitMQ-based distributed task queues
-- Developed SSL/TLS analysis, rDNS, and target intelligence modules
-- Designed scalable PostgreSQL schema + JWT authentication
+- Asynchronous microservice architecture (Node.js + Python workers)
+- RabbitMQ-based distributed task queues
+- SSL/TLS analysis, rDNS, and intelligence modules
+- Scalable PostgreSQL schema + JWT authentication
 
----
-
-### 🔹 VeloSync (Secure P2P File Sharing)
+### 🔹 [VeloSync - Secure P2P File Sharing](https://github.com/Zenithreddyp/P2P_FILE_SHARING_PLATFORM)
 
 - WebRTC-based direct file transfer (no server storage)
 - ECDH key exchange + AES-GCM encryption
-- Built signaling server using Node.js + Socket.IO
+- Node.js + Socket.IO signaling server
 - Optimized transfer speed & reduced payload overhead
 
-### 🔹 Zedova (E-Commerce Platform)
+### 🔹 [Zedova - E-Commerce Platform](https://github.com/Zenithreddyp/E-commerce_web)
 
 - Django + PostgreSQL backend with REST APIs
 - ML-based recommendation system
@@ -62,7 +61,7 @@ LeetCode Rating: 1650+
 
 - LeetCode Rating: **1650+ (Top ~18%)**
 - Global Rank: **1780 / 33K+ (Top 5.2%)**
-- 2nd Prize — IEEE Open House (Hybrid Drone)
+- 2nd Prize - IEEE Open House (Hybrid Drone)
 
 ## GitHub Stats
 
