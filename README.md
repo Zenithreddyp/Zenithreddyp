@@ -24,7 +24,7 @@ _Currently looking for backend / systems / security-focused internships & resear
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,vite,nodejs,django,flask,postgres,mongodb,mysql,redis,docker,git,github,linux,arduino&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,vite,nodejs,django,flask,postgres,mysql,mongodb,redis,rabbitmq,docker,git,github,linux,arduino&perline=10" />
 </p>
 
 ## Specialized Areas
