@@ -1,6 +1,6 @@
 # Zenith Reddy Pathakota
 
-Backend Developer · Systems & Security  
+Backend Developer · AI Systems & Network Security  
 Computer Science @ ABV-IIITM Gwalior
 
 ## Connect
@@ -24,7 +24,7 @@ _Currently looking for backend / systems / security-focused internships & resear
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,vite,nodejs,django,flask,postgres,mysql,mongodb,redis,rabbitmq,docker,git,github,linux,arduino&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,vite,nodejs,django,flask,postgres,mysql,mongodb,redis,rabbitmq,docker,git,github,linux,arduino,aws&perline=10" />
 </p>
 
 ## Specialized Areas
@@ -32,11 +32,18 @@ _Currently looking for backend / systems / security-focused internships & resear
 - Distributed Systems & Microservices
 - Network Security & OSINT
 - WebRTC & Real-Time Systems
-- Backend Architecture & API Design
+- Backend Architecture & AI Automation
 
 ## Projects
 
-### 🔹 [Distributed Network Analysis Platform](https://github.com/Zenithreddyp/security_scan) _(Actively Developing)_
+### 🔹 [Aegis Connect - Multi-Agent Log Analysis](https://github.com/Zenithreddyp/aegis_connect)
+
+- Asynchronous multi-agent architecture (Python + RabbitMQ)
+- Local LLM inference via Ollama for threat detection
+- Multi-agent pipeline with Sentry and Investigator agents
+- Privacy-focused local ingestion and log analysis
+
+### 🔹 [Distributed Network Analysis Platform](https://github.com/Zenithreddyp/security_scan)
 
 - Asynchronous microservice architecture (Node.js + Python workers)
 - RabbitMQ-based distributed task queues
@@ -77,5 +84,6 @@ _Currently looking for backend / systems / security-focused internships & resear
 ## Current Focus
 
 - Backend Systems at Scale
-- Security & Attack Surface Management
-- Open Source contributions
+- WebRTC & Asynchronous Architectures
+- Open Source Contributions
+
