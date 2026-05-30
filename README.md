@@ -23,9 +23,12 @@ _Currently looking for backend / systems / security-focused internships & resear
 
 ## Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,react,vite,nodejs,django,flask,postgres,mysql,mongodb,redis,rabbitmq,docker,git,github,linux,arduino,aws&perline=10" />
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js&perline=10" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,django,flask,fastapi&perline=10" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=10" /><br/>
+  <img src="https://skillicons.dev/icons?i=rabbitmq,docker,git,github,linux,arduino,aws&perline=10" />
+</div>
 
 ## Specialized Areas
 
@@ -66,7 +69,7 @@ _Currently looking for backend / systems / security-focused internships & resear
 
 ## Achievements
 
-- LeetCode Rating: **1650+ (Top ~18%)**
+- LeetCode Rating: **1711+ (Top ~12%)**
 - Global Rank: **1780 / 33K+ (Top 5.2%)**
 - 2nd Prize - IEEE Open House (Hybrid Drone)
 
