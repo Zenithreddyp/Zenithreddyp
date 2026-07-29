@@ -3,6 +3,8 @@
 Backend Developer · AI Systems & Network Security  
 Computer Science @ ABV-IIITM Gwalior
 
+![Profile views](https://komarev.com/ghpvc/?username=zenithreddyp)
+
 ## Connect
 
 <p align="left">
